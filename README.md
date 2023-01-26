@@ -1,18 +1,7 @@
 ### Olá! Eu sou o Rafael Ventura 👋
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
-<!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div>
   
@@ -24,7 +13,8 @@ Here are some ideas to get you started:
   
  <div style= "display: inline_block"><br>
       
-### Tecnologias  <hr>
+### <img src="https://icons8.com/icon/tuvCpPz2cODd/services">  Skills <hr> 
+
    
 <img aligh= "center" height="60" width="70" alt="Rafa-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /
@@ -37,8 +27,36 @@ Here are some ideas to get you started:
 <img aligh= "center" height="60" width="70" alt="Rafa-Mysql"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />                  
 <img aligh= "center" height="60" width="70" alt="Rafa-linux"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
        
- </div>       
-          
+</div>       
+<Br>
+
+<div>
+ 
+##  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me <hr>
+
+<a href="https://www.linkedin.com/in/dev-ventura" target="blank_"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="mailto:@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="#"> <img src= "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.instagram.com/rafaelventurarj"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+</div>
+
+
+<div>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me... <hr>
+
+- 🔗 I’m currently learning ..
+- 🔭 I’m currently working on ..
+- 👐 I’m looking to contribute to ..
+- 🥅 2022 Goals: Learn more about ..
+- ⚡ Fun fact: I love to play games
+- 💬 Ask me about ..
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+
+</div>
+
           
       
       
