@@ -58,9 +58,20 @@
 - ⚡ Fun fact: I love to play games
 - 💬 Ask me about ..
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
+
+<div>
+
+## Main projects ...
+<br>
+
+<a href="https://github.com/rc-ventura/Spring_Boot_Backend" target= "blank_">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rc-ventura&repo=Spring_Boot_Backend&theme=highcontrast" /></a>
+<a href="https://github.com/anuraghazra/convoychat"  target= "blank_">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=highcontrast" />
+</a>
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
           
       
