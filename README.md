@@ -59,10 +59,10 @@
 - 💬 Ask me about ..
 
 
-
+<br>
 <div>
 
-## Main projects ...
+## <img src="/icons8-design-project.gif" width="40"> Main projects ...
 <br>
 
 <a href="https://github.com/rc-ventura/Spring_Boot_Backend" target= "blank_">
