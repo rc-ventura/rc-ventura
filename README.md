@@ -6,7 +6,7 @@
 <div>
  
   <a href="*">
-    <img  height=180rem" src="https://github-readme-stats.vercel.app/api?username=rc-ventura&theme=highcontrast&show_icons=true">   
+    <img  height=180rem" src="https://github-readme-stats.vercel.app/api?username=rc-ventura&theme=highcontrast&show_icons=true&include_all_commits=true">   
     <img  height=180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-ventura&layout=compact&langs_count=16&theme=highcontrast">
 
  <br>
@@ -51,12 +51,12 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me... 
   <br>
 
-- 🔗 I’m currently learning ..
-- 🔭 I’m currently working on ..
-- 👐 I’m looking to contribute to ..
-- 🥅 2022 Goals: Learn more about ..
-- ⚡ Fun fact: I love to play games
-- 💬 Ask me about ..
+- 🔗 Eu atualmente estou aprendendo sobre Testes automatizados ...
+- 🔭 Eu atualmente estou em busca do meu primeiro emprego na área ...
+- 👐 Eu almejo contribuir em projetos Open Sources ...
+- 🥅 2023 Metas: Aperfeiçoar meu Inglês ...
+- ⚡ Hobbies: Star Wars e Criptoativos ...
+- 💬 Ask me about ...
 
 
 <br>
