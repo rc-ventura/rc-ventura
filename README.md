@@ -6,7 +6,7 @@
 <div>
  
   <a href="*">
-    <img  height=180rem" src="https://github-readme-stats.vercel.app/api?username=rc-ventura&theme=highcontrast&show_icons=true&include_all_commits=true">   
+    <img  height=180rem" src="https://github-readme-stats.vercel.app/api?username=rc-ventura&theme=highcontrast&show_icons=true">   
     <img  height=180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-ventura&layout=compact&langs_count=16&theme=highcontrast">
 
  <br>
