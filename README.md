@@ -20,11 +20,12 @@
 <img aligh= "center" height="60" width="70" alt="Rafa-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /
 <img aligh= "center" height="60" width="70" alt="Rafa-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img aligh= "center" height="60" width="70" alt="Rafa-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         
+<img aligh= "center" height="60" width="70" alt="Rafa-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img aligh= "center" height="60" width="70" alt="Rafa-Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+<img aligh= "center" height="60" width="70" alt="Rafa-Aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img aligh= "center" height="60" width="70" alt="Rafa-Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />         
 <img aligh= "center" height="60" width="70" alt="Rafa-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-<img aligh= "center" height="60" width="70" alt="Rafa-Boostrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />         
-<img aligh= "center" height="60" width="70" alt="Rafa-Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />      
 <img aligh= "center" height="60" width="70" alt="Rafa-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
 <img aligh= "center" height="60" width="70" alt="Rafa-Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />                  
 <img aligh= "center" height="60" width="70" alt="Rafa-linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
