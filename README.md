@@ -68,7 +68,7 @@
 
 <a href="https://github.com/rc-ventura/Spring_Boot_Backend" target= "blank_">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rc-ventura&repo=Spring_Boot_Backend&theme=highcontrast" /></a>
-<a href="https://github.com/anuraghazra/convoychat"  target= "blank_">
+<a href="https://github.com/rc-ventura/CurrencyConverter-App"  target= "blank_">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rc-ventura&repo=Social-Media-System&theme=highcontrast" />
 </a>
 </div>
