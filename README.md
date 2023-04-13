@@ -27,7 +27,10 @@
 <img aligh= "center" height="60" width="70" alt="Rafa-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 <img aligh= "center" height="60" width="70" alt="Rafa-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
-<img aligh= "center" height="60" width="70" alt="Rafa-Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />                  
+<img aligh= "center" height="60" width="70" alt="Rafa-Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
+ <img aligh="center" height="60" width="70" alt="Rafa-Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img aligh= "center" height="60" width="70" alt="Rafa-Kube" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+
 <img aligh= "center" height="60" width="70" alt="Rafa-linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br>
