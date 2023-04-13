@@ -30,7 +30,6 @@
 <img aligh= "center" height="60" width="70" alt="Rafa-Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
  <img aligh="center" height="60" width="70" alt="Rafa-Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Kube" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-
 <img aligh= "center" height="60" width="70" alt="Rafa-linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br>
@@ -69,8 +68,8 @@
 ## <img src="/icons8-design-project.gif" width="40"> Main projects ...
 <br>
 
-<a href="https://github.com/rc-ventura/Spring_Boot_Backend" target= "blank_">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rc-ventura&repo=Spring_Boot_Backend&theme=highcontrast" /></a>
+<a href="https://github.com/rc-ventura/observability-monitoring-promo-node-grafana" target= "blank_">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rc-ventura&repo=observability-monitoring-promo-node-grafana&theme=highcontrast" /></a>
 <a href="https://github.com/rc-ventura/Social-Media-System"  target= "blank_">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rc-ventura&repo=Social-Media-System&theme=highcontrast" />
 </a>
