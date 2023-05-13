@@ -17,21 +17,18 @@
 ## <img src="/icons8-services.gif" width="40">  Skills 
 <br> 
    
-<img aligh= "center" height="60" width="70" alt="Rafa-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img aligh= "center" height="60" width="70" alt="Rafa-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /
-<img aligh= "center" height="60" width="70" alt="Rafa-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img aligh= "center" height="60" width="70" alt="Rafa-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-<img aligh= "center" height="60" width="70" alt="Rafa-Aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />         
-<img aligh= "center" height="60" width="70" alt="Rafa-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img aligh= "center" height="60" width="70" alt="Rafa-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 <img aligh= "center" height="60" width="70" alt="Rafa-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
-<img aligh= "center" height="60" width="70" alt="Rafa-Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
- <img aligh="center" height="60" width="70" alt="Rafa-Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img aligh="center" height="60" width="70" alt="Rafa-Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Kube" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
+<img height="60" width="70" alt ="Rafa-amazon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img height="60" width="70" alt ="Rafa-prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+<img height="60" width="70" alt ="Rafa-grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+<img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+          
+          
 <br>
 </div>       
 
