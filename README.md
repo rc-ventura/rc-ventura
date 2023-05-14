@@ -67,9 +67,6 @@
 
 <a href="https://github.com/rc-ventura/observability-monitoring-promo-node-grafana" target= "blank_">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rc-ventura&repo=observability-monitoring-promo-node-grafana&theme=highcontrast" /></a>
-<a href="https://github.com/rc-ventura/Social-Media-System"  target= "blank_">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rc-ventura&repo=Social-Media-System&theme=highcontrast" />
-</a>
  <a href="https://github.com/rc-ventura/CurrencyConverter-App"  target= "blank_">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rc-ventura&repo=CurrencyConverter-App&theme=highcontrast" />
  </a>
