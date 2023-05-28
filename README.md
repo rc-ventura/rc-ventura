@@ -16,7 +16,10 @@
       
 ## <img src="/icons8-services.gif" width="40">  Skills 
 <br> 
-   
+ 
+<img aligh= "center" height="60" width="70" alt="Rafa-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img aligh= "center" height="60" width="70" alt="Rafa-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+         
 <img aligh= "center" height="60" width="70" alt="Rafa-Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />         
 <img aligh= "center" height="60" width="70" alt="Rafa-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
