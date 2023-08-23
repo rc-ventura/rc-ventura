@@ -19,7 +19,7 @@
  
 <img aligh= "center" height="60" width="70" alt="Rafa-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-         
+<img aligh= "center" height="60" width="70" alt="Rafa-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />       
 <img aligh= "center" height="60" width="70" alt="Rafa-Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />         
 <img aligh= "center" height="60" width="70" alt="Rafa-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
@@ -29,8 +29,8 @@
 <img height="60" width="70" alt ="Rafa-amazon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img height="60" width="70" alt ="Rafa-prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
 <img height="60" width="70" alt ="Rafa-grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-<img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-          
+<img height="60" width="70" alt="Rafa-Vagrant" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
+                    
           
 <br>
 </div>       
@@ -42,7 +42,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/dev-ventura" target="blank_"> <img aligh= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:@gmail.com" target="blank_" ><img aligh= "center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="r.c_ventura:@gmail.com" target="blank_" ><img aligh= "center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="#"> <img aligh= "center" target="blank_" src= "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.instagram.com/rafaelventurarj" target="blank_"><img aligh= "center" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
