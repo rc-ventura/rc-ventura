@@ -16,7 +16,14 @@
       
 ## <img src="/icons8-services.gif" width="40">  Skills 
 <br> 
- 
+
+
+          
+
+  <img aligh= "center" height="60" width="70" alt="Rafa-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />       
+  <img aligh= "center" height="60" width="70" alt="Rafa-msql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />       
+ <img aligh= "center" height="60" width="70" alt="Rafa-mongo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />       
+ <img aligh= "center" height="60" width="70" alt="Rafa-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />       
 <img aligh= "center" height="60" width="70" alt="Rafa-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />       
 <img aligh= "center" height="60" width="70" alt="Rafa-Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
 <img aligh= "center" height="60" width="70" alt="Rafa-Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />         
