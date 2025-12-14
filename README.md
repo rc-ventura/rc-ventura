@@ -177,7 +177,7 @@ Examples:
 <div>
 
 <div>
-  <img height="160" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=rc-ventura&show_icons=true&theme=highcontrast" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rc-ventura&show_icons=true&theme=highcontrast" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rc-ventura&layout=compact&theme=highcontrast" />
 </div>
 
