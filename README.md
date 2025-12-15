@@ -9,6 +9,7 @@ I also teach software development, cloud fundamentals, and AI at SENAI-SC and ot
 
 🔗 **Portfolio / Landing Page:** https://rc-ventura.vercel.app
 🐙 **GitHub:** https://github.com/rc-ventura  
+👷 **Linkedin:** https://linkedin.com/in/dev-ventura
 📖 **Medium:** https://medium.com/@rc-ventura
 📄 **Resume available upon request**
 
