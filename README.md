@@ -7,11 +7,11 @@ My work combines engineering, automation, and education — helping teams deploy
 I currently work with **DevOps, Cloud (AWS/GCP), LLM Agents, Infrastructure-as-Code, Observability**, and applied Generative AI.  
 I also teach software development, cloud fundamentals, and AI at SENAI-SC and other institutions.
 
-🔗 **Portfolio / Landing Page:** https://rc-ventura.vercel.app
+🔗 **Portfolio / Landing Page:** https://rc-ventura.vercel.app  
 🐙 **GitHub:** https://github.com/rc-ventura  
-👷 **Linkedin:** https://linkedin.com/in/dev-ventura
-📖 **Medium:** https://medium.com/@rc-ventura
-📄 **Resume available upon request**
+👷 **Linkedin:** https://linkedin.com/in/dev-ventura  
+📖 **Medium:** https://medium.com/@rc-ventura  
+📄 **Resume available upon request**  
 
 ---
 
